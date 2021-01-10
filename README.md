@@ -1,4 +1,4 @@
- mydexchain Hi there 👋
+ hoşgeldiniz mydexchain Hi there 👋
 
 <!--
 **HASHUS72/hashus72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
